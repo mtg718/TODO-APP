@@ -21,7 +21,9 @@ A MERN stack todo app that can edit, delete, filter and store the tasks in mongo
 <br></br>
 
 <h1>AAdding the task</h1>
+
 ![React App - Google Chrome 01-10-2023 14_44_18](https://github.com/mtg718/TODO-APP/assets/135738292/028178d2-8dc9-4313-bbfe-c650a904bc65)
+
 ![React App - Google Chrome 01-10-2023 14_44_23](https://github.com/mtg718/TODO-APP/assets/135738292/e4b9dc93-4fd0-4803-9233-cad91fa29163)
 
 
