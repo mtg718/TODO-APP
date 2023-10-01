@@ -4,6 +4,7 @@ A MERN stack todo app that can edit, delete, filter and store the tasks in mongo
 
 After cloning, use npm i (if required) & then for for frontend- write (cd frontend) in terminal of your folder and run (npm start)
 and for backend(server in my case)-  write (cd server) in terminal of your folder and run (npm run dev).
+Install all the dependencies required , some of which are- (npm i moment cors react-toastify jsonwebtoken express-validator)
 
 
 ![React App - Google Chrome 01-10-2023 14_27_46](https://github.com/mtg718/TODO-APP/assets/135738292/73b3a7e9-e87b-40be-9dff-d95136eaa0b5)
