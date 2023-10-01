@@ -18,7 +18,14 @@ A MERN stack todo app that can edit, delete, filter and store the tasks in mongo
 
 ![React App - Google Chrome 01-10-2023 11_59_51](https://github.com/mtg718/TODO-APP/assets/135738292/839a4775-19df-4d73-8da2-f20bf542f554)
 
+<br></br>
 
+<h1>AAdding the task</h1>
+![React App - Google Chrome 01-10-2023 14_44_18](https://github.com/mtg718/TODO-APP/assets/135738292/028178d2-8dc9-4313-bbfe-c650a904bc65)
+![React App - Google Chrome 01-10-2023 14_44_23](https://github.com/mtg718/TODO-APP/assets/135738292/e4b9dc93-4fd0-4803-9233-cad91fa29163)
+
+
+<br></br>
 <h1>Searching the tasks</h1>
 <br></br>
 
@@ -29,13 +36,9 @@ A MERN stack todo app that can edit, delete, filter and store the tasks in mongo
 
 ![React App - Google Chrome 01-10-2023 14_13_45](https://github.com/mtg718/TODO-APP/assets/135738292/eeb9fc1d-f30a-43c3-981e-f87e766bf207)
 
-<h1>User Data Stored in Mongodb Database</h1>
 
-<br></br>
-![Screenshot 2023-10-01 143954](https://github.com/mtg718/TODO-APP/assets/135738292/4cd11c00-db24-4a85-b601-088ebd2e250b)
-<br></br>
 
-<h1>User tasks Stored in Mongodb Database</h1>
+<h1>User  and their tasks  Stored in Mongodb Database</h1>
 <br></br>
 
 ![Screenshot 2023-10-01 143912](https://github.com/mtg718/TODO-APP/assets/135738292/98b32e72-4f2f-4fff-9a34-c8d82be9dde9)
