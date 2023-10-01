@@ -3,13 +3,13 @@ A MERN stack todo app that can edit, delete, filter and store the tasks in mongo
 
 
 ![React App - Google Chrome 01-10-2023 11_57_35](https://github.com/mtg718/TODO-APP/assets/135738292/0d1a8405-fb03-4c9b-97b2-721f867bfbbe)
-
+<br></br>
 <h1>If invalid login details</h1>
 <br></br>
 ![React App - Google Chrome 01-10-2023 14_20_16](https://github.com/mtg718/TODO-APP/assets/135738292/c1d8f00f-0c35-4fcc-be2d-0448fb1764f2)
 <br></br>
 
-<h1>If ivalid login details</h1>
+<h1>If Valid login details</h1>
 
 ![React App - Google Chrome 01-10-2023 11_57_09](https://github.com/mtg718/TODO-APP/assets/135738292/952e8393-9f98-4f13-88b6-ade7ee2f36a0)
 
