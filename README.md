@@ -2,6 +2,9 @@
 # TODO-APP
 A MERN stack todo app that can edit, delete, filter and store the tasks in mongodb database via login and sign up features.
 
+After cloning, use npm i (if required) & then for for frontend- write (cd frontend) in terminal of your folder and run (npm start)
+and for backend(server in my case)-  write (cd server) in terminal of your folder and run (npm run dev).
+
 
 ![React App - Google Chrome 01-10-2023 14_27_46](https://github.com/mtg718/TODO-APP/assets/135738292/73b3a7e9-e87b-40be-9dff-d95136eaa0b5)
 <h1>If invalid login details</h1>
