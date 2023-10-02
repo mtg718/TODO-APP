@@ -104,9 +104,16 @@ const Login = ({ user, setUser }) => {
                   placeholder="Enter password"
                 />
 
-<Link to="forgot-password" style={{ color: "#c63885", position:"fixed",bottom:"90px", fontSize:"18px",fontWeight:"550" }}>
+                 <Link to="forgot-password" 
+                   style={
+                   { color: "#c63885", 
+                    position:"fixed",
+                    bottom:"90px",
+                    fontSize:"18px",
+                    fontWeight:"550" }
+                   }>
                   Forgot Password
-                </Link>
+                 </Link>
                 
                 {errors?.password && (
                   <small id="emailHelp" className="form-text text-primary">
