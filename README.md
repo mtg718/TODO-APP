@@ -15,7 +15,7 @@ Install all the dependencies required , some of which are- (npm i moment cors re
 <br></br>
 <h1>If Forgot Password</h1>
 
-![React App - Google Chrome 02-10-2023 23_54_32](https://github.com/mtg718/TODO-APP/assets/135738292/c7c3ba7c-760f-4291-b010-bf4ea0b1da54)
+![React App - Google Chrome 03-10-2023 00_01_15](https://github.com/mtg718/TODO-APP/assets/135738292/dd6a0921-43b7-42a6-9156-614330fbd95f)
 <br></br>
 <h1>If Valid login details</h1>
 
