@@ -11,11 +11,13 @@ Install all the dependencies required , some of which are- (npm i moment cors re
 <h1>If invalid login details</h1>
 <br></br>
 
-![React App - Google Chrome 01-10-2023 14_20_16](https://github.com/mtg718/TODO-APP/assets/135738292/9b479772-011f-4a52-b7b5-41f90efe5b8b)
+![React App - Google Chrome 02-10-2023 23_27_43](https://github.com/mtg718/TODO-APP/assets/135738292/9dc29b41-4927-446a-97b0-c6555dbaea2c)
+
 <br></br>
 <h1>If Valid login details</h1>
 
-![React App - Google Chrome 01-10-2023 11_57_09](https://github.com/mtg718/TODO-APP/assets/135738292/952e8393-9f98-4f13-88b6-ade7ee2f36a0)
+![React App - Google Chrome 02-10-2023 23_26_44](https://github.com/mtg718/TODO-APP/assets/135738292/6922ecc7-3256-4559-a431-862229f0e69d)
+
 ![React App - Google Chrome 01-10-2023 11_59_51](https://github.com/mtg718/TODO-APP/assets/135738292/839a4775-19df-4d73-8da2-f20bf542f554)
 <br></br>
 <h1>Adding the task</h1>
