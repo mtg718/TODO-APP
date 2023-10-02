@@ -22,7 +22,7 @@ const[user,setUser] = useState(JSON.parse(info))
 <Route exact path="/" element={<HomePage/>}/>
 <Route exact path="/register" element={<Register/>}/>
 <Route exact path="/login" element={<Login user={user} setUser={setUser}/>}/>
-
+<Route exact path="/forgot-password" element={<ForgotPassword/>} />
         </Routes>
       </BrowserRouter>
     </>
