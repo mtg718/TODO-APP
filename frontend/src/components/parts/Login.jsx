@@ -91,7 +91,7 @@ const Login = ({ user, setUser }) => {
               </div>
 
               <div className="form-group">
-                <label htmlFor="exampleInputEmail1" className="form-label mt-4">
+                <label htmlFor="exampleInputEmail1" className="form-label mt-3">
                   Password
                 </label>
                 <input
@@ -104,6 +104,10 @@ const Login = ({ user, setUser }) => {
                   placeholder="Enter password"
                 />
 
+<Link to="forgot-password" style={{ color: "#c63885", position:"fixed",bottom:"90px", fontSize:"18px",fontWeight:"550" }}>
+                  Forgot Password
+                </Link>
+                
                 {errors?.password && (
                   <small id="emailHelp" className="form-text text-primary">
                     {errors.password.msg}
