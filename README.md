@@ -1,6 +1,6 @@
 
 # TODO-APP
-A MERN(MongoDB,Express.js,React.js,Node.js) stack todo app that can add, delete, filter and store the tasks in mongodb database via login and sign up features.
+A MERN (MongoDB,Express.js,React.js,Node.js) stack todo app that can add, delete, filter and store the tasks in mongodb database via login and sign up features.
 
 After cloning, use npm i (if required) & then for for frontend- write (cd frontend) in terminal of your folder and run (npm start)
 and for backend(server in my case)-  write (cd server) in terminal of your folder and run (npm run dev).
